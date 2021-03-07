@@ -1,6 +1,6 @@
 import sys
 
-from indexed_blockchain_mdp import *
+from base_blockchain_mdps.indexed_blockchain_mdp import *
 
 
 class BitcoinMDP(IndexedBlockchainMDP):

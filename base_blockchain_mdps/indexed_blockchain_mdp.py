@@ -1,4 +1,4 @@
-from sparse_blockchain_mdp import *
+from .sparse_blockchain_mdp import *
 
 
 class IndexedBlockchainMDP(SparseBlockchainMDP, ABC):

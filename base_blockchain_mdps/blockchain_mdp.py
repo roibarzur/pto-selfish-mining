@@ -5,7 +5,7 @@ import networkx as nx
 from scipy import stats
 from scipy.sparse.linalg import eigs
 
-from mdp_matrix import *
+from mdp_matrices.mdp_matrix import *
 
 
 class BlockchainMDP:

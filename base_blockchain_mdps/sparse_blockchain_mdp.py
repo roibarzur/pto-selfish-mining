@@ -2,8 +2,8 @@ from abc import ABC
 
 from scipy.sparse import find
 
-from blockchain_mdp import *
-from sparse_mdp_matrix import *
+from .blockchain_mdp import *
+from mdp_matrices.sparse_mdp_matrix import *
 
 
 class SparseBlockchainMDP(BlockchainMDP, ABC):

@@ -1,6 +1,6 @@
 from scipy.sparse import csr_matrix, lil_matrix
 
-from mdp_matrix import *
+from .mdp_matrix import *
 
 
 class SparseMDPMatrix(MDPMatrix):
