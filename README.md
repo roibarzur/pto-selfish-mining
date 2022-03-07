@@ -1,2 +1,2 @@
-# Probabilistic Termination Optimization: MDP Analysis for Selfish Mining in Bitcoin and Ethereum
-Code repository of the paper Efficient MDP Analysis for Selfish-Mining in Blockchains https://arxiv.org/abs/2007.05614.
+# Analyzing Selfish Mining in BLockchains with Dynamic Programming and Deep RL
+Code repository of the papers "Efficient MDP Analysis for Selfish-Mining in Blockchains" (https://dl.acm.org/doi/abs/10.1145/3419614.3423264) and "WeRLman: To Tackle Whale (Transactions), Go Deep (RL)" (https://dl.acm.org/doi/abs/10.1145/3419614.3423264).
