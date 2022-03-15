@@ -1,0 +1,2 @@
+# May require an external library
+scikit-umfpack==0.3.2
